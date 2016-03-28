@@ -7,10 +7,14 @@
 	<window data="charsheet.id-00002" class="charsheet" pos="390,6,915,606" />
 	<window data="charsheet.id-00002" class="charsheet_classes" pos="894,461,1364,761" />
 	<window data="combattracker" class="combattracker_host" pos="804,361,1454,861" />
-	<window data="encounter" class="encounterlist" pos="979,411,1495,811" />
+	<window data="encounter" class="encounterlist" pos="301,132,817,532" />
 	<window data="encounter.enc_p8_00episode8_missiontothay@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_p8_01theenemyofmyenemy@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_p8_02adarkandforbiddingland@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_p9_03thetempleoftiamat@DD The Rise of Tiamat" class="encounter" pos="311,58,711,708" />
+	<window data="encounter.enc_p9_07tiamat_stemple@DD The Rise of Tiamat" class="encounter" pos="311,58,711,708" />
+	<window data="encounter.enc_p9_11thwartingthedragonqueen@DD The Rise of Tiamat" class="encounter" pos="311,58,711,708" />
+	<window data="encounter.enc_p9_12facingtiamat@DD The Rise of Tiamat" class="encounter" pos="311,58,711,708" />
 	<window data="encounter.enc_pz_01appendixa_monsters@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_pz_02appendixb_magicitems@DD The Rise of Tiamat" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_pz_03appendixc_councilscorecard@DD The Rise of Tiamat" class="encounter" pos="605,103,1758,753" />
